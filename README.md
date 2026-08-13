@@ -27,12 +27,12 @@
 
 ## 🚀 Professional Summary
 
-Full-Stack Web Developer with hands-on experience designing, developing, and deploying scalable web applications using **PHP, Laravel, React.js, Node.js, Express.js, MySQL, and MongoDB**[cite: 1]. Skilled in building secure REST APIs, implementing MVC architecture and authentication systems, and optimizing database performance for CRUD-heavy applications[cite: 1].
+Full-Stack Web Developer with hands-on experience designing, developing, and deploying scalable web applications using PHP, Laravel, React.js, Node.js, Express.js, MySQL, and MongoDB[cite: 2].
 
-* 🔭 **Current Role:** Web Developer @ **Sunsky Software Technologies Pvt. Ltd.**[cite: 1]
-* 💼 **Core Expertise:** Full-Stack Architecture, REST API Design, Database Query Optimization[cite: 1]
-* 🎓 **Education:** B.Tech in Computer Science & Engineering (JIS College of Engineering)[cite: 1]
-* ⚡ **Currently Exploring:** Advanced Cloud Infrastructure & PostgreSQL[cite: 1]
+* 🔭 **Current Role:** Web Developer @ **Sunsky Software Technologies Pvt. Ltd.**[cite: 2]
+* 💼 **Core Expertise:** Full-Stack Architecture, REST API Design, Database Query Optimization[cite: 2]
+* 🎓 **Education:** B.Tech in Computer Science & Engineering (JIS College of Engineering)[cite: 2]
+* ⚡ **Currently Exploring:** Advanced Cloud Infrastructure & PostgreSQL[cite: 2]
 
 ---
 
@@ -55,17 +55,17 @@ Full-Stack Web Developer with hands-on experience designing, developing, and dep
 ## 💼 Professional Experience
 
 ### 🏢 **Web Developer** — *Sunsky Software Technologies Pvt. Ltd.*
-`Apr 2026 – Present`[cite: 1]
-* Develop and maintain full-stack web applications using **PHP, Laravel, JavaScript, and MySQL** within an agile workflow[cite: 1].
-* Design and implement secure, well-documented REST APIs with strict input validation and robust error handling[cite: 1].
-* Resolve production bugs to significantly improve page load times, system performance, and application stability[cite: 1].
-* Conduct code reviews and utilize Git/GitHub for coordinated, reliable release pipelines[cite: 1].
+`Apr 2026 – Present`[cite: 2]
+* Develop and maintain full-stack web applications using PHP, Laravel, JavaScript, and MySQL within an agile team workflow[cite: 2].
+* Design and implement secure, well-documented REST APIs with strict input validation and robust error handling[cite: 2].
+* Resolve production bugs to significantly improve page load times, system performance, and application stability[cite: 2].
+* Conduct code reviews and utilize Git/GitHub for coordinated, reliable release pipelines[cite: 2].
 
 ### 💻 **Full Stack Developer Intern** — *Onnet Solution Infotech Pvt. Ltd.*
-`Dec 2025 – Mar 2026`[cite: 1]
-* Built functional, production-ready modules using **Core PHP and Laravel**[cite: 1].
-* Executed database operations via **PDO and MySQL**, writing optimized queries for high-volume CRUD workflows[cite: 1].
-* Gained hands-on experience in backend MVC architecture, user authentication flows, and security best practices[cite: 1].
+`Dec 2025 – Mar 2026`[cite: 2]
+* Built functional, production-ready modules using Core PHP and Laravel[cite: 2].
+* Executed database operations via PDO and MySQL, writing optimized queries for high-volume CRUD workflows[cite: 2].
+* Gained hands-on experience in backend MVC architecture, user authentication flows, and security best practices[cite: 2].
 
 ---
 
@@ -78,7 +78,7 @@ Full-Stack Web Developer with hands-on experience designing, developing, and dep
   </a>
 
   <p align="center">
-    <b>An end-to-end, high-performance fruit e-commerce platform engineered for seamless ordering, secure authentication, and real-time inventory management[cite: 1].</b>
+    <b>An end-to-end, high-performance fruit e-commerce platform engineered for seamless ordering, secure authentication, and real-time inventory management[cite: 2].</b>
   </p>
 
   <p align="center">
@@ -94,13 +94,63 @@ Full-Stack Web Developer with hands-on experience designing, developing, and dep
 <br />
 
 ### ⚡ Technical Capabilities & Highlights
-- 🔍 **Dynamic Search Engine:** Integrated real-time product search and live filtering capabilities[cite: 1].
-- 🛒 **Session-Based Cart:** Persistent interactive shopping cart supporting live total price recalculations[cite: 1].
-- 🔐 **Secure Authentication:** Robust user login, signup, and protected session workflows[cite: 1].
-- 📍 **Checkout & Delivery:** Complete multi-address delivery workflow with integrated live order status tracking[cite: 1].
-- ⚡ **Database Query Optimization:** Relational MySQL schema architecture using PHP PDO prepared statements to guarantee zero SQL injection risks and fast query response times[cite: 1].
+- 🔍 **Dynamic Search Engine:** Integrated real-time product search and live filtering capabilities[cite: 2].
+- 🛒 **Session-Based Cart:** Persistent interactive shopping cart supporting live total price recalculations[cite: 2].
+- 🔐 **Secure Authentication:** Robust user login, signup, and protected session workflows[cite: 2].
+- 📍 **Checkout & Delivery:** Complete multi-address delivery workflow with integrated live order status tracking[cite: 2].
+- ⚡ **Database Query Optimization:** Relational MySQL schema architecture using PHP PDO prepared statements to guarantee zero SQL injection risks and fast query response times[cite: 2].
 
-<details>
-<summary><b>🛠️ View Fruvive Architecture Breakdown (Click to expand)</b></summary>
+---
+
+## 📜 Certifications & Credentials
+
+<div align="center">
+
+| Badge | Certification Title | Issuer / Platform | Verification Link |
+| :---: | :--- | :---: | :---: |
+| <img src="https://img.shields.io/badge/Microsoft-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> | **Microsoft Azure Certification** | Microsoft | [Verify Credentials](https://learn.microsoft.com/en-us/users/srijibpal-5378/credentials/c88428a178bf2941) |
+| <img src="https://img.shields.io/badge/HackerRank-Verified-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white" /> | **HackerRank Certified Skill** | HackerRank | [Verify Certificate](https://www.hackerrank.com/certificates/fb73448056ba) |
+| <img src="https://img.shields.io/badge/Web-Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /> | **Introduction to Web Development** | Certified | Certified[cite: 2] |
+
+</div>
+
+---
+
+## 🎓 Education
+
+* 🎓 **B.Tech in Computer Science & Engineering** — *JIS College of Engineering* `(2020 – 2024)`[cite: 2]
+* 🏫 **Higher Secondary (Class XII)** — *Jawahar Navodaya Vidyalaya, Bankura* `(2019)`[cite: 2]
+* 🏫 **Secondary (Class X)** — *Jawahar Navodaya Vidyalaya, Bankura* `(2017)`[cite: 2]
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRIJIB24&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIJIB24&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="48%" />
+</div>
 
 <br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRIJIB24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijibpal948@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SRIJIB24)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-808a-6139d6409367.gif" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" width="100%" />
+</div>
