@@ -27,12 +27,12 @@
 
 ## 🚀 Professional Summary
 
-Full-Stack Web Developer with hands-on experience designing, developing, and deploying scalable web applications using PHP, Laravel, React.js, Node.js, Express.js, MySQL, and MongoDB[cite: 2].
+Full-Stack Web Developer with hands-on experience designing, developing, and deploying scalable web applications using PHP, Laravel, React.js, Node.js, Express.js, MySQL, and MongoDB.
 
-* 🔭 **Current Role:** Web Developer @ **Sunsky Software Technologies Pvt. Ltd.**[cite: 2]
-* 💼 **Core Expertise:** Full-Stack Architecture, REST API Design, Database Query Optimization[cite: 2]
-* 🎓 **Education:** B.Tech in Computer Science & Engineering (JIS College of Engineering)[cite: 2]
-* ⚡ **Currently Exploring:** Advanced Cloud Infrastructure & PostgreSQL[cite: 2]
+* 🔭 **Current Role:** Web Developer @ **Sunsky Software Technologies Pvt. Ltd.**
+* 💼 **Core Expertise:** Full-Stack Architecture, REST API Design, Database Query Optimization
+* 🎓 **Education:** B.Tech in Computer Science & Engineering (JIS College of Engineering)
+* ⚡ **Currently Exploring:** Advanced Cloud Infrastructure & PostgreSQL
 
 ---
 
@@ -55,17 +55,17 @@ Full-Stack Web Developer with hands-on experience designing, developing, and dep
 ## 💼 Professional Experience
 
 ### 🏢 **Web Developer** — *Sunsky Software Technologies Pvt. Ltd.*
-`Apr 2026 – Present`[cite: 2]
-* Develop and maintain full-stack web applications using PHP, Laravel, JavaScript, and MySQL within an agile team workflow[cite: 2].
-* Design and implement secure, well-documented REST APIs with strict input validation and robust error handling[cite: 2].
-* Resolve production bugs to significantly improve page load times, system performance, and application stability[cite: 2].
-* Conduct code reviews and utilize Git/GitHub for coordinated, reliable release pipelines[cite: 2].
+`Apr 2026 – Present`
+* Develop and maintain full-stack web applications using PHP, Laravel, JavaScript, and MySQL within an agile team workflow.
+* Design and implement secure, well-documented REST APIs with strict input validation and robust error handling.
+* Resolve production bugs to significantly improve page load times, system performance, and application stability.
+* Conduct code reviews and utilize Git/GitHub for coordinated, reliable release pipelines.
 
 ### 💻 **Full Stack Developer Intern** — *Onnet Solution Infotech Pvt. Ltd.*
-`Dec 2025 – Mar 2026`[cite: 2]
-* Built functional, production-ready modules using Core PHP and Laravel[cite: 2].
-* Executed database operations via PDO and MySQL, writing optimized queries for high-volume CRUD workflows[cite: 2].
-* Gained hands-on experience in backend MVC architecture, user authentication flows, and security best practices[cite: 2].
+`Dec 2025 – Mar 2026`
+* Built functional, production-ready modules using Core PHP and Laravel.
+* Executed database operations via PDO and MySQL, writing optimized queries for high-volume CRUD workflows.
+* Gained hands-on experience in backend MVC architecture, user authentication flows, and security best practices.
 
 ---
 
@@ -78,7 +78,7 @@ Full-Stack Web Developer with hands-on experience designing, developing, and dep
   </a>
 
   <p align="center">
-    <b>An end-to-end, high-performance fruit e-commerce platform engineered for seamless ordering, secure authentication, and real-time inventory management[cite: 2].</b>
+    <b>An end-to-end, high-performance fruit e-commerce platform engineered for seamless ordering, secure authentication, and real-time inventory management.</b>
   </p>
 
   <p align="center">
@@ -94,11 +94,11 @@ Full-Stack Web Developer with hands-on experience designing, developing, and dep
 <br />
 
 ### ⚡ Technical Capabilities & Highlights
-- 🔍 **Dynamic Search Engine:** Integrated real-time product search and live filtering capabilities[cite: 2].
-- 🛒 **Session-Based Cart:** Persistent interactive shopping cart supporting live total price recalculations[cite: 2].
-- 🔐 **Secure Authentication:** Robust user login, signup, and protected session workflows[cite: 2].
-- 📍 **Checkout & Delivery:** Complete multi-address delivery workflow with integrated live order status tracking[cite: 2].
-- ⚡ **Database Query Optimization:** Relational MySQL schema architecture using PHP PDO prepared statements to guarantee zero SQL injection risks and fast query response times[cite: 2].
+- 🔍 **Dynamic Search Engine:** Integrated real-time product search and live filtering capabilities.
+- 🛒 **Session-Based Cart:** Persistent interactive shopping cart supporting live total price recalculations.
+- 🔐 **Secure Authentication:** Robust user login, signup, and protected session workflows.
+- 📍 **Checkout & Delivery:** Complete multi-address delivery workflow with integrated live order status tracking.
+- ⚡ **Database Query Optimization:** Relational MySQL schema architecture using PHP PDO prepared statements to guarantee zero SQL injection risks and fast query response times.
 
 ---
 
@@ -118,9 +118,9 @@ Full-Stack Web Developer with hands-on experience designing, developing, and dep
 
 ## 🎓 Education
 
-* 🎓 **B.Tech in Computer Science & Engineering** — *JIS College of Engineering* `(2020 – 2024)`[cite: 2]
-* 🏫 **Higher Secondary (Class XII)** — *Jawahar Navodaya Vidyalaya, Bankura* `(2019)`[cite: 2]
-* 🏫 **Secondary (Class X)** — *Jawahar Navodaya Vidyalaya, Bankura* `(2017)`[cite: 2]
+* 🎓 **B.Tech in Computer Science & Engineering** — *JIS College of Engineering* `(2020 – 2024)`
+* 🏫 **Higher Secondary (Class XII)** — *Jawahar Navodaya Vidyalaya, Bankura* `(2019)`
+* 🏫 **Secondary (Class X)** — *Jawahar Navodaya Vidyalaya, Bankura* `(2017)`
 
 ---
 
